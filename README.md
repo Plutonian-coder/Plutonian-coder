@@ -1,7 +1,7 @@
 # Data & AI
-#Experienced Vibe Coder(lol)
+# Experienced Vibe Coder(lol)
 
-#Curiosity Driven.
+# Curiosity Driven.
 
 
 ## Stack
@@ -16,8 +16,6 @@
 
 ---
 
-
----
 
 Open to collabs, project ideas, or just talking AI.  
 📧 [yekeenkhalid363@gmail.com](mailto:yekeenkhalid363@gmail.com) | [LinkedIn](https://www.linkedin.com/in/plutocrag)
