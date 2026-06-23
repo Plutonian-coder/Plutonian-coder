@@ -1,17 +1,8 @@
-# Khalid
+# Data & AI
+#Experienced Vibe Coder(lol)
 
-CS student. AI/ML + full-stack. Lagos, Nigeria.  
-I got into tech chasing one question — *how does this actually work?* — and never stopped.
+#Curiosity Driven.
 
----
-
-## Now
-
-- Learning the math behind ML, not just the API
-- Building projects on real problems and datasets
-- Exploring agentic systems and production ML
-
----
 
 ## Stack
 
@@ -25,7 +16,6 @@ I got into tech chasing one question — *how does this actually work?* — and 
 
 ---
 
-> Consistency over intensity. Depth over shortcuts. Build real things.
 
 ---
 
